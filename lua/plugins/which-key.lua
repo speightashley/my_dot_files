@@ -3,6 +3,7 @@ return {
   opts = {
     defaults = {
       ["<leader>T"] = { name = "ToggleTerm" },
+      ["<localLeader>l"] = { name = "+vimtex" },
     },
   },
 }
